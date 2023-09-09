@@ -10,6 +10,12 @@
 
 
 ## Deployment
+Here you will see the two folders:
+
+Backend: Here I have tried to connect the database with the help of FastAPI and MongoDB.
+
+Final: Here I have tried to create a front with the help of the React Framework.
+
 
 1: Clone the Project
 
